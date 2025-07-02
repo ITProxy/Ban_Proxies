@@ -1,4 +1,5 @@
-[![Update frequency](https://img.shields.io/badge/Update%20frequency-temporarily%20not%20updated-red?style=flat-square)](#)  
+[![Static Badge](https://img.shields.io/badge/Update_frequency-Daily-green?style=flat&logoSize=1000&color=%2312c98c)] (#) 
+
 # Списки IP-адресов proxy-серверов
 В файлах репозитория публикуется актуальная информация об IP-адресах proxy-серверов, с которых фиксируются DDoS-атаки на информационные системы Российской Федерации. Данный перечень IP-адресов рекомендуется к блокировке. 
 
